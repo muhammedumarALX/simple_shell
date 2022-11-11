@@ -5,5 +5,5 @@ This is a simple UNIX command interpreter based on bash and Sh.
 command language interpreter that executes commands read from the standard input or from a file.
 
 ## Authors & Copyrights
-Umar Muhammed <umarmuhammed>
-Joel Elegbede <joelelegbede>
+- Umar Muhammed <umarmuhammed>
+- Joel Elegbede <joelelegbede>
