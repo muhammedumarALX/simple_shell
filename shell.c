@@ -2,7 +2,7 @@
 
 /**
  * execute - executes the command
- * @cmd: command to run
+ * @cmd: command to be run
  *
  * Return: 0 on success 1, -1 if cmd is exit and 1 on any other error
  */
